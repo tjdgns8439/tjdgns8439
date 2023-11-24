@@ -1,16 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=안녕하세요%20HUN의%20GitHub입니다:\)&c&&color=gradient&fontSize=40&animation=twinkling&height=200&reversal=true&fontAlignY=40)
+<body >
+ <a href="https://velog.io/@gnstjdqkr" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-<!--
-**tjdgns8439/tjdgns8439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## My Stat
+<div  align="center">
+<span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdgns8439&show_icons=true&theme=tokyonight) </span>
+ <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgns8439&layout=compact&theme=tokyonight) </span>
+ <span> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgns8439)](https://solved.ac/profile/tjdgns8439)
+ </div>
+</body>
